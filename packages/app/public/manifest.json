@@ -1,0 +1,17 @@
+// This JSON file provides configurations for the application or tooling.
+
+{
+  "short_name": "Backstage",
+  "name": "Backstage",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

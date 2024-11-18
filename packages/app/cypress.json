@@ -1,0 +1,7 @@
+// This JSON file provides configurations for the application or tooling.
+
+{
+  "baseUrl": "http://localhost:3001",
+  "fixturesFolder": false,
+  "pluginsFile": false
+}

@@ -1,0 +1,8 @@
+// This JSON file provides configurations for the application or tooling.
+
+{
+  "packages": ["packages/*", "plugins/*"],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "0.1.0"
+}

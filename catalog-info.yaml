@@ -1,0 +1,11 @@
+# This YAML file configures the application's components and services.
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage
+  description: An example of a Backstage application.
+spec:
+  type: website
+  owner: john@example.com
+  lifecycle: experimental
